@@ -1,0 +1,132 @@
+@charset "utf-8";
+body {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #666666;
+	background-color: #000033;
+}
+.mapboarder {
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.nav  a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+
+#wrapper {
+	background-image: url(../images/waterbg.png);
+	background-repeat: repeat-y;
+	background-position: right top;
+	height: 1015px;
+	width: 780px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+	margin-bottom: 0px;
+	position: relative;
+	left: auto;
+	right: auto;
+}
+#leftside {
+	height: 700px;
+	width: 200px;
+	position: relative;
+	left: 0px;
+	top: 0px;
+	float: left;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+#footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-align: center;
+	width: 700px;
+	bottom: 0px;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	color: #FFFFFF;
+}
+#header {
+	width: 780px;
+	margin: 0px;
+	padding: 0px;
+}
+#content {
+	color: #03C;
+	height: 740px;
+	width: 780px;
+	position: relative;
+	top: 0px;
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+}
+.floatleft {
+	float: left;
+}
+.nav a:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+.nav a:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+.floatright {
+	float: right;
+}p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	color: #333333;
+}
+.copyright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-align: center;
+	width: 700px;
+	bottom: 0px;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	color: #FFFFFF;
+}
+.text {
+	width: 95%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	color: #333333;
+}
+#wrapper #content .page_title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	font-style: italic;
+	color: #0000CC;
+	margin-left: 25px;
+	padding-left: 0px;
+}

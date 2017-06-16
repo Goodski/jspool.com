@@ -1,0 +1,143 @@
+BODY, PRE, TD, LI, UL, OL, DL, P, FORM, INPUT, SELECT, TEXTAREA {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #575252;
+}
+BOD {
+	padding: 0;
+	margin: 0;
+}
+IMG {
+	border-color:#666666;
+}
+A {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #575252;
+	text-decoration: underline;
+}
+A:hover {
+	color: #A7A4A4;
+	text-decoration: none;
+}
+.color1 {
+	background-color: #3366CC;
+}
+.color2 {
+	background-color: #204BA4;
+}
+.menu-block {
+	height: 37px;
+	background: url(../images/top-bg.gif) repeat-x;
+	padding: 8px 6px 0 93px;
+	vertical-align: top;
+}
+#menu-logout {
+	vertical-align: top;
+	float: right;
+}
+#lineme {
+	width: 50px;
+	border: 1px solid #D1D3D4;
+	padding: 1px;
+}
+#lineme table {
+	margin: 0px;
+	padding: 0px;
+	border-collapse: collapse;
+}
+#lineme td {
+	border: 1px solid #D1D3D4;
+	padding: 4px;
+}
+.lined {
+	background: url(../images/bt-bg.gif) repeat-x;
+}
+.title {
+	font-weight: bold;
+	font-size: 11px;
+	color: #164DBE;
+}
+.error {
+	color: #A43741;
+}
+.comment {
+	color: #A7A4A4;
+}
+.copyright {
+	font-size: 10px;
+	color: #B9B9B9;
+}
+.copyright A, .copyright A:hover {
+	color: #B9B9B9;
+	font-size: 10px;
+	font-weight: bold;
+}
+.fields {
+	font-size: 11px;
+	width: 266px;
+	height: 16px;
+	color: #666666;
+	background-color: #F8F8F8;
+	vertical-align: middle;
+/*/*/
+	border: 1px solid #D4D0C8;
+/*buzz*/
+}
+.texxtarea {
+	font-size: 11px;
+	width: 266px;
+	height: 80px;
+	color: #666666;
+	background-color: #F8F8F8;
+	vertical-align: middle;
+/*/*/
+	border: 1px solid #D4D0C8;
+/*buzz*/
+}
+.buttons {
+	font-size: 10px;
+	font-weight: bold;
+	height: 18px;
+	color: #FF9900;
+	background-color: #ffffff;
+	vertical-align: middle;
+	text-transform: uppercase;
+/*/*/
+	padding: 1px 5px;
+	/*border-color: #cecece #928A81 #928A81 #cecece;
+	border-style: solid;
+	border-width: 1px;
+/*buzz*/
+}
+table.data {
+	margin: 10px 0;
+}
+table.data thead tr th {
+	padding: 4px 7px;
+	font-weight: bold;
+	color: #204BA4;
+	font-size: 11px;
+	background-color: #E8EEF8;
+	text-align: center;
+	border-color: #e9e9e9 #AEC0DF #AEC0DF #e9e9e9;
+	border-style: solid;
+	border-width: 1px;
+	text-transform: uppercase;
+}
+table.data thead a {
+	color: #204BA4;
+	font-size: 11px;
+	text-decoration: none;
+}
+table.data thead a:hover {
+	color: #FF9900;
+}
+table.data tbody tr td {
+	color: #575252;
+	padding: 5px;
+	background-color: #ffffff;
+}
+tr.data td {
+	background-color: #F8F8F8 !important;
+}

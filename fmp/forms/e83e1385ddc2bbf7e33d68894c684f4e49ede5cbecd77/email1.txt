@@ -1,0 +1,12 @@
+To: [re_Contact_Email]
+From: info@web-site-scripts.com
+Subject: Thank you
+
+You filled in next information:
+First Name: [r_First_Name]
+Last Name: [Last_Name]
+Contact Email: [re_Contact_Email]
+Subject: [r_Subject]
+Comment: [r_Com]
+
+Thank you!

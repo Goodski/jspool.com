@@ -1,0 +1,29 @@
+<imageflow 
+	autoFlip="false" 
+	flipInterval="3" 
+	flipSpeed="1" 
+	useMotionBlur="false" 
+	dofStrength="0" 
+	angle="30" 
+	depth="500" 
+	spaceMain="225" 
+	spaceBack="100" 
+	descColor="0xAAAAAA" 
+	descSize="14" 
+	hasReflection="true" 
+	reflectionStrength="30" 
+	reflectionSize="80" 
+	reflectionBackground="0" 
+	startImage="0" 
+	imgWidth="266" 
+	imgHeight="146"
+	quality="2"
+	fogStrength="0">
+	<title color="0xAAAAAA" size="18"><![CDATA[]]></title>
+	<image url="../images/remodel/Backyard/Backyard 050.jpg" target="_blank" width="600" height="400"><![CDATA[]]></image>
+	<image url="../images/remodel/Backyard/Backyard 049.jpg" target="_blank" width="600" height="400"><![CDATA[]]></image>
+	<image url="../images/remodel/Backyard/Backyard 039.jpg" target="_blank" width="600" height="400"><![CDATA[]]></image>
+	<image url="../images/remodel/Backyard/100_2525.JPG" target="_blank" width="600" height="400"><![CDATA[]]></image>
+	<image url="../images/remodel/Backyard/Backyard 032.jpg" target="_blank" width="600" height="399"><![CDATA[]]></image>
+	<image url="../images/remodel/Backyard/Backyard 035.jpg" target="_blank" width="600" height="399"><![CDATA[]]></image>
+</imageflow>

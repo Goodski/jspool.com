@@ -1,0 +1,28 @@
+<imageflow 
+	autoFlip="false" 
+	flipInterval="3" 
+	flipSpeed="1" 
+	useMotionBlur="false" 
+	dofStrength="0" 
+	angle="30" 
+	depth="500" 
+	spaceMain="225" 
+	spaceBack="60" 
+	descColor="0xAAAAAA" 
+	descSize="14" 
+	hasReflection="true" 
+	reflectionStrength="30" 
+	reflectionSize="80" 
+	reflectionBackground="0" 
+	startImage="0" 
+	imgWidth="266" 
+	imgHeight="146"
+	quality="2"
+	fogStrength="0">
+	<title color="0xAAAAAA" size="18"><![CDATA[Freedman Remodel]]></title>
+	<image url="../images/remodel/Freedman/remodel 014.jpg" target="_blank" width="600" height="456"><![CDATA[]]></image>
+	<image url="../images/remodel/Freedman/remodel 017.jpg" target="_blank" width="600" height="456"><![CDATA[]]></image>
+	<image url="../images/remodel/Freedman/HPIM0261.jpg" target="_blank" width="600" height="456"><![CDATA[]]></image>
+	<image url="../images/remodel/Freedman/remodel photos 014.jpg" target="_blank" width="600" height="399"><![CDATA[]]></image>
+	<image url="../images/remodel/Freedman/remodel photos 016.jpg" target="_blank" width="600" height="399"><![CDATA[]]></image>
+</imageflow>

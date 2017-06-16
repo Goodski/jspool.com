@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Hanford Island"
+	galleryHeight="70%"
+	galleryWidth="630PX"
+	backgroundColor="rgba(255,255,255,1)"
+
+>
+  <image imageURL="images/Hanford Island (2).jpg"
+	thumbURL="thumbs/Hanford Island (2).jpg"
+	linkURL="images/Hanford Island (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Handford Island\Hanford Island (2).jpg">
+    <title><![CDATA[Hanford Island (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hanford Island (3).jpg"
+	thumbURL="thumbs/Hanford Island (3).jpg"
+	linkURL="images/Hanford Island (3).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Handford Island\Hanford Island (3).jpg">
+    <title><![CDATA[Hanford Island (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hanford Island (4).jpg"
+	thumbURL="thumbs/Hanford Island (4).jpg"
+	linkURL="images/Hanford Island (4).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Handford Island\Hanford Island (4).jpg">
+    <title><![CDATA[Hanford Island (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hanford Island.jpg"
+	thumbURL="thumbs/Hanford Island.jpg"
+	linkURL="images/Hanford Island.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Handford Island\Hanford Island.jpg">
+    <title><![CDATA[Hanford Island]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hanford Island (5).jpg"
+	thumbURL="thumbs/Hanford Island (5).jpg"
+	linkURL="images/Hanford Island (5).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Handford Island\Hanford Island (5).jpg">
+    <title><![CDATA[Hanford Island (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hanford Island (11).jpg"
+	thumbURL="thumbs/Hanford Island (11).jpg"
+	linkURL="images/Hanford Island (11).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Handford Island\Hanford Island (11).jpg">
+    <title><![CDATA[Hanford Island (11)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hanford Island (12).jpg"
+	thumbURL="thumbs/Hanford Island (12).jpg"
+	linkURL="images/Hanford Island (12).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Handford Island\Hanford Island (12).jpg">
+    <title><![CDATA[Hanford Island (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hanford Island (13).jpg"
+	thumbURL="thumbs/Hanford Island (13).jpg"
+	linkURL="images/Hanford Island (13).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Handford Island\Hanford Island (13).jpg">
+    <title><![CDATA[Hanford Island (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hanford Island (14).jpg"
+	thumbURL="thumbs/Hanford Island (14).jpg"
+	linkURL="images/Hanford Island (14).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Handford Island\Hanford Island (14).jpg">
+    <title><![CDATA[Hanford Island (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hanford Island (15).jpg"
+	thumbURL="thumbs/Hanford Island (15).jpg"
+	linkURL="images/Hanford Island (15).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Handford Island\Hanford Island (15).jpg">
+    <title><![CDATA[Hanford Island (15)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hanford Island (16).jpg"
+	thumbURL="thumbs/Hanford Island (16).jpg"
+	linkURL="images/Hanford Island (16).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Handford Island\Hanford Island (16).jpg">
+    <title><![CDATA[Hanford Island (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hanford Island (17).jpg"
+	thumbURL="thumbs/Hanford Island (17).jpg"
+	linkURL="images/Hanford Island (17).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Handford Island\Hanford Island (17).jpg">
+    <title><![CDATA[Hanford Island (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,28 @@
+<imageflow 
+	autoFlip="false" 
+	flipInterval="3" 
+	flipSpeed="1" 
+	useMotionBlur="false" 
+	dofStrength="0" 
+	angle="30" 
+	depth="500" 
+	spaceMain="225" 
+	spaceBack="60" 
+	descColor="0xAAAAAA" 
+	descSize="14" 
+	hasReflection="true" 
+	reflectionStrength="30" 
+	reflectionSize="80" 
+	reflectionBackground="0" 
+	startImage="0" 
+	imgWidth="266" 
+	imgHeight="146"
+	quality="2"
+	fogStrength="0">
+	<title color="0xAAAAAA" size="18"><![CDATA[]]></title>
+	<image url="../images/remodel/Eidal/HPIM0278.jpg" target="_blank" width="600" height="456"><![CDATA[]]></image>
+	<image url="../images/remodel/Eidal/HPIM0282.jpg" target="_blank" width="600" height="456"><![CDATA[]]></image>
+	<image url="../images/remodel/Eidal/Website 002.jpg" target="_blank" width="600" height="450"><![CDATA[]]></image>
+	<image url="../images/remodel/Eidal/Website 006.jpg" target="_blank" width="600" height="450"><![CDATA[]]></image>
+	<image url="../images/remodel/Eidal/Website 008.jpg" target="_blank" width="600" height="450"><![CDATA[]]></image>
+</imageflow>

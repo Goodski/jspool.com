@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,1)"
+	galleryTitle="Retail Store"
+	galleryWidth="630"
+	galleryHeight="70%"
+
+>
+  <image imageURL="images/Store 2.jpg"
+	thumbURL="thumbs/Store 2.jpg"
+	linkURL="images/Store 2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Store\Store 2.jpg">
+    <title><![CDATA[Store 2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Store 3.jpg"
+	thumbURL="thumbs/Store 3.jpg"
+	linkURL="images/Store 3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Store\Store 3.jpg">
+    <title><![CDATA[Store 3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Store 4.jpg"
+	thumbURL="thumbs/Store 4.jpg"
+	linkURL="images/Store 4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Store\Store 4.jpg">
+    <title><![CDATA[Store 4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Store.jpg"
+	thumbURL="thumbs/Store.jpg"
+	linkURL="images/Store.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Store\Store.jpg">
+    <title><![CDATA[Store]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

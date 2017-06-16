@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+}
+body {background-color: #000033;
+}
+.header {
+	font-size: 36px;
+	line-height: 36px;
+	color: #FFFF00;
+	background-color: #0000FF;
+	font-family: Impact, Arial, "Arial Black";
+	text-align: center;
+	margin-top: -2px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	
+}
+
+.subHeading {
+	font-family: Impact, Arial, "Arial Black";
+	font-size: 18px;
+	font-style: italic;
+	line-height: 24px;
+	background-color: #0000FF;
+	text-align: center;
+	color: #FFFF00;
+	margin-bottom: 0px;
+	margin-top: 5px;
+	
+	
+}
+.heading2 {
+	font-family: Impact, Arial, "Arial Black";
+	font-size: 24px;
+	background-color: #0000FF;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #FFFF00;
+}
+.Menu { 
+color: #00F;
+}
+.bodytext {
+	font-size: 16px;
+	line-height: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
+.background {
+	background-color: #FFF;
+}
+.classcontent {
+	margin-top: 25px;
+}
+disc {
+	background-color: #0099CC;
+}
+.content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	height: 465px;
+	width: 300px;
+	color: #01478C;
+	align: center;
+	background-position: center;
+	text-align: center;
+	padding: 5px;
+	background-color: #B5C8CC;
+}
+.footercontent {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #B5C8CC;
+	text-align: center;
+	padding: 0px;
+	margin-top: 25px;
+	height: 175px;
+	width: 300px;
+	color: #01478C;
+}
+
+.footer {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #B5C8CC;
+	text-align: center;
+	color: #01478C;
+}

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Backyard Remodel"
+	useThumbDots="false"
+	showThumbsButton="false"
+	galleryWidth="630px"
+	backgroundColor="rgba(255,255,255,1)"
+	showExpandButton="false"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/Beall Before.jpg"
+	thumbURL="thumbs/Beall Before.jpg"
+	linkURL="images/Beall Before.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Before.jpg">
+    
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Before (3).jpg"
+	thumbURL="thumbs/Beall Before (3).jpg"
+	linkURL="images/Beall Before (3).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Before (3).jpg">
+    
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Before (4).jpg"
+	thumbURL="thumbs/Beall Before (4).jpg"
+	linkURL="images/Beall Before (4).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Before (4).jpg">
+    <title><![CDATA[ Before (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Before (7).jpg"
+	thumbURL="thumbs/Beall Before (7).jpg"
+	linkURL="images/Beall Before (7).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Before (7).jpg">
+    <title><![CDATA[ Before (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Deck pour 1 pre stone.jpg"
+	thumbURL="thumbs/Beall Deck pour 1 pre stone.jpg"
+	linkURL="images/Beall Deck pour 1 pre stone.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Deck pour 1 pre stone.jpg">
+    <title><![CDATA[Deck pour 1 pre stone]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall deck pour 1 (5).jpg"
+	thumbURL="thumbs/Beall deck pour 1 (5).jpg"
+	linkURL="images/Beall deck pour 1 (5).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall deck pour 1 (5).jpg">
+    <title><![CDATA[deck pour 1 (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall deck pour 1 (6).jpg"
+	thumbURL="thumbs/Beall deck pour 1 (6).jpg"
+	linkURL="images/Beall deck pour 1 (6).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall deck pour 1 (6).jpg">
+    <title><![CDATA[deck pour 1 (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall deck pour 1 (7).jpg"
+	thumbURL="thumbs/Beall deck pour 1 (7).jpg"
+	linkURL="images/Beall deck pour 1 (7).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall deck pour 1 (7).jpg">
+    <title><![CDATA[deck pour 1 (7)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall deck pour 1 (8).jpg"
+	thumbURL="thumbs/Beall deck pour 1 (8).jpg"
+	linkURL="images/Beall deck pour 1 (8).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall deck pour 1 (8).jpg">
+    <title><![CDATA[deck pour 1 (8)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Light Fixture.jpg"
+	thumbURL="thumbs/Beall Light Fixture.jpg"
+	linkURL="images/Beall Light Fixture.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Light Fixture.jpg">
+    <title><![CDATA[Light Fixture]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Fireplace progress (2).jpg"
+	thumbURL="thumbs/Beall Fireplace progress (2).jpg"
+	linkURL="images/Beall Fireplace progress (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Fireplace progress (2).jpg">
+    <title><![CDATA[Fireplace progress (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Fireplace screen (3).jpg"
+	thumbURL="thumbs/Beall Fireplace screen (3).jpg"
+	linkURL="images/Beall Fireplace screen (3).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Fireplace screen (3).jpg">
+    <title><![CDATA[Fireplace screen (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Fireplace screen (4).jpg"
+	thumbURL="thumbs/Beall Fireplace screen (4).jpg"
+	linkURL="images/Beall Fireplace screen (4).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Fireplace screen (4).jpg">
+    <title><![CDATA[Fireplace screen (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall front view pre landscaping.jpg"
+	thumbURL="thumbs/Beall front view pre landscaping.jpg"
+	linkURL="images/Beall front view pre landscaping.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall front view pre landscaping.jpg">
+    <title><![CDATA[front view pre landscaping]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Islan Progress.jpg"
+	thumbURL="thumbs/Beall Islan Progress.jpg"
+	linkURL="images/Beall Islan Progress.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Islan Progress.jpg">
+    <title><![CDATA[Island Progress]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Island Complete (4).jpg"
+	thumbURL="thumbs/Beall Island Complete (4).jpg"
+	linkURL="images/Beall Island Complete (4).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Island Complete (4).jpg">
+    <title><![CDATA[Island Complete (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Island Complete (5).jpg"
+	thumbURL="thumbs/Beall Island Complete (5).jpg"
+	linkURL="images/Beall Island Complete (5).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Island Complete (5).jpg">
+    <title><![CDATA[Island Complete (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Island Pergola (2).jpg"
+	thumbURL="thumbs/Beall Island Pergola (2).jpg"
+	linkURL="images/Beall Island Pergola (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Island Pergola (2).jpg">
+    <title><![CDATA[Island Pergola (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Island Pergola (3).jpg"
+	thumbURL="thumbs/Beall Island Pergola (3).jpg"
+	linkURL="images/Beall Island Pergola (3).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Island Pergola (3).jpg">
+    <title><![CDATA[Island Pergola (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Island Pergola (4).jpg"
+	thumbURL="thumbs/Beall Island Pergola (4).jpg"
+	linkURL="images/Beall Island Pergola (4).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Island Pergola (4).jpg">
+    <title><![CDATA[Island Pergola (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Island pergola.jpg"
+	thumbURL="thumbs/Beall Island pergola.jpg"
+	linkURL="images/Beall Island pergola.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Island pergola.jpg">
+    <title><![CDATA[Island pergola]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Island progess.jpg"
+	thumbURL="thumbs/Beall Island progess.jpg"
+	linkURL="images/Beall Island progess.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Island progess.jpg">
+    <title><![CDATA[Beall Island progess]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Island Progress.jpg"
+	thumbURL="thumbs/Beall Island Progress.jpg"
+	linkURL="images/Beall Island Progress.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Island Progress.jpg">
+    <title><![CDATA[Island Progress]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Island Screen (2).jpg"
+	thumbURL="thumbs/Beall Island Screen (2).jpg"
+	linkURL="images/Beall Island Screen (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Island Screen (2).jpg">
+    <title><![CDATA[Island Screen (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Island Screen (3).jpg"
+	thumbURL="thumbs/Beall Island Screen (3).jpg"
+	linkURL="images/Beall Island Screen (3).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Island Screen (3).jpg">
+    <title><![CDATA[Island Screen (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Island screen (4).jpg"
+	thumbURL="thumbs/Beall Island screen (4).jpg"
+	linkURL="images/Beall Island screen (4).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Island screen (4).jpg">
+    <title><![CDATA[Island screen (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Island Screen.jpg"
+	thumbURL="thumbs/Beall Island Screen.jpg"
+	linkURL="images/Beall Island Screen.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Island Screen.jpg">
+    <title><![CDATA[Island Screen]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Play area pre landscape.jpg"
+	thumbURL="thumbs/Beall Play area pre landscape.jpg"
+	linkURL="images/Beall Play area pre landscape.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Play area pre landscape.jpg">
+    <title><![CDATA[Play area pre landscape]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall seat walls pre landscaping (2).jpg"
+	thumbURL="thumbs/Beall seat walls pre landscaping (2).jpg"
+	linkURL="images/Beall seat walls pre landscaping (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall seat walls pre landscaping (2).jpg">
+    <title><![CDATA[seat walls pre landscaping (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Pool pre deck (3).jpg"
+	thumbURL="thumbs/Beall Pool pre deck (3).jpg"
+	linkURL="images/Beall Pool pre deck (3).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Pool pre deck (3).jpg">
+    <title><![CDATA[Pool pre deck (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Pool pre deck (5).jpg"
+	thumbURL="thumbs/Beall Pool pre deck (5).jpg"
+	linkURL="images/Beall Pool pre deck (5).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Pool pre deck (5).jpg">
+    <title><![CDATA[Pool pre deck (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Pool pre deck (6).jpg"
+	thumbURL="thumbs/Beall Pool pre deck (6).jpg"
+	linkURL="images/Beall Pool pre deck (6).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Pool pre deck (6).jpg">
+    <title><![CDATA[Pool pre deck (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall pool pre deck (9).jpg"
+	thumbURL="thumbs/Beall pool pre deck (9).jpg"
+	linkURL="images/Beall pool pre deck (9).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall pool pre deck (9).jpg">
+    <title><![CDATA[pool pre deck (9)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Pool pre deck.jpg"
+	thumbURL="thumbs/Beall Pool pre deck.jpg"
+	linkURL="images/Beall Pool pre deck.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Pool pre deck.jpg">
+    <title><![CDATA[Pool pre deck]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall rear view pre landscaping (2).jpg"
+	thumbURL="thumbs/Beall rear view pre landscaping (2).jpg"
+	linkURL="images/Beall rear view pre landscaping (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall rear view pre landscaping (2).jpg">
+    <title><![CDATA[rear view pre landscaping (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall rear view pre landscaping (3).jpg"
+	thumbURL="thumbs/Beall rear view pre landscaping (3).jpg"
+	linkURL="images/Beall rear view pre landscaping (3).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall rear view pre landscaping (3).jpg">
+    <title><![CDATA[rear view pre landscaping (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall rear view pre landscaping (4).jpg"
+	thumbURL="thumbs/Beall rear view pre landscaping (4).jpg"
+	linkURL="images/Beall rear view pre landscaping (4).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall rear view pre landscaping (4).jpg">
+    <title><![CDATA[rear view pre landscaping (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall rear view pre landscaping.jpg"
+	thumbURL="thumbs/Beall rear view pre landscaping.jpg"
+	linkURL="images/Beall rear view pre landscaping.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall rear view pre landscaping.jpg">
+    <title><![CDATA[ rear view pre landscaping]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall waterfall pre deck.jpg"
+	thumbURL="thumbs/Beall waterfall pre deck.jpg"
+	linkURL="images/Beall waterfall pre deck.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall waterfall pre deck.jpg">
+    <title><![CDATA[waterfall pre deck]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Complete.jpg"
+	thumbURL="thumbs/Beall Complete.jpg"
+	linkURL="images/Beall Complete.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Complete.jpg">
+    <title><![CDATA[Complete]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Complete front view.jpg"
+	thumbURL="thumbs/Beall Complete front view.jpg"
+	linkURL="images/Beall Complete front view.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Complete front view.jpg">
+    <title><![CDATA[Complete front view]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Complete Island and steps.jpg"
+	thumbURL="thumbs/Beall Complete Island and steps.jpg"
+	linkURL="images/Beall Complete Island and steps.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Complete Island and steps.jpg">
+    <title><![CDATA[Complete Island and steps]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Fireplace Complete.jpg"
+	thumbURL="thumbs/Beall Fireplace Complete.jpg"
+	linkURL="images/Beall Fireplace Complete.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Fireplace Complete.jpg">
+    <title><![CDATA[Fireplace Complete]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Pool Complete (2).jpg"
+	thumbURL="thumbs/Beall Pool Complete (2).jpg"
+	linkURL="images/Beall Pool Complete (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Pool Complete (2).jpg">
+    <title><![CDATA[Pool Complete (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Seat wall.jpg"
+	thumbURL="thumbs/Beall Seat wall.jpg"
+	linkURL="images/Beall Seat wall.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Seat wall.jpg">
+    <title><![CDATA[Seat wall]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

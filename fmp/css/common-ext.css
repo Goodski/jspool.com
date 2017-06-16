@@ -1,0 +1,289 @@
+/* ~~~ ©2004 Rm; implementation by Vady ~~~
+	vady[at]i.com.ua
+	
+	{var}
+	cross-browser = false;
+	static-values = true;
+	unique-colors = true;
+	...
+
+*/
+
+/* ~~~ [regular classes/selectors definitions] ~~~ */
+BODY, PRE, TD, LI, UL, OL, DL, P, FORM, INPUT, SELECT, TEXTAREA {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+BODY {
+	padding: 0;
+	margin: 0;
+}
+IMG {
+	border-color:#666666;
+}
+H2 {
+	font-size: 1.4em;
+	padding: 0;
+	margin: 0 0 10px 0;
+	border-bottom: 1px solid #310063;
+}
+H3 {
+	margin-bottom: 6px;
+	margin-top: 10px;
+}
+H5 {
+	margin: 0px;
+	font-size: small;
+}
+H4 {
+	margin-bottom: 10px;
+	font-size: small;
+}
+
+/* ~~~ [pseudo classes] ~~~ */
+A {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+A:hover {
+	color: #666666;
+	text-decoration: underline;
+}
+
+/* ~~~ [colors] ~~~ */
+.color1 {
+	background-color: #459832;
+}
+.color2 {
+	background-color: #FF9900;
+}
+
+
+/* ~~~ [layers] ~~~ */
+.header {
+/*	min-width: 600px;
+	float: right;
+	position: relative;
+*/
+	width: 100%;
+	height: 55px;
+	left: 0;
+	top: 0;
+	z-index: 1;
+	color: #333;
+	padding: 3px 8px;
+	background-color: #ffffff;
+	background: url(../images/bg.gif) repeat;
+	text-align: center;
+	border: 3px solid #9C99F5;
+}
+
+/* ~~~ [text feat] ~~~ */
+.title {
+	font-size: 14px;
+	color: #FF9A00;
+	font-weight: bold;
+}
+a.thesame, a.thesame:hover {
+	color: #6E6FB7;
+}
+a.thesame:hover {
+	text-decoration: none;
+}
+a.specialink {
+	font-size: 10px;
+	color: #919191;
+	text-decoration: underline;
+}
+a.specialink:hover {
+	font-size: 10px;
+	color: #919191;
+	text-decoration: none;
+}
+
+/* ~~~ [css menu] ~~~ */
+#navcontainer {
+	font-family: arial;
+	font-weight: bold;
+	margin: 0;
+	padding: 5px;
+	border: 0;
+	text-align: center;
+}
+#navcontainer ul {
+	display: inline;
+	margin: 0;
+	list-style: none;
+}
+#navcontainer ul li {
+	display: inline;
+	margin: 3px;
+	border: 1px solid #121212;
+}
+#navcontainer ul li a {
+	margin-right: -2px;
+	margin-top: 10px;
+	color: #fff;
+	background: #310063;
+	padding: 2px 15px;
+	text-decoration: none;
+	border: 3px solid #9C99F5;
+	width: 208px;
+}
+#navcontainer ul li a:hover {
+	background: #310063;
+	border: solid 3px #fff;
+}
+#navlist #active {
+	border: solid 3px #fff;
+}
+
+/* ~~~ [forms] ~~~ */
+.fields {
+	width: 266px;
+	font-size: 11px;
+	height: 16px;
+	color: #666666;
+	background-color: #F8F8F8;
+	vertical-align: middle;
+/*/*/
+	border: 1px solid #D4D0C8;
+	padding: 0 10px;
+/*buzz*/
+}
+.txtarea {
+	font-size: 11px;
+	width: 266px;
+	height: 80px;
+	color: #666666;
+	background-color: #F8F8F8;
+	vertical-align: middle;
+/*/*/
+	border: 1px solid #D4D0C8;
+/*buzz*/
+}
+/* css2%
+input[type=submit] {
+	border: 1px solid #D4D0C8;
+}
+*/
+.buttons {
+	font-size: 10px;
+	font-weight: bold;
+	height: 18px;
+	color: #ffffff;
+	background-color: #FF9900;
+	vertical-align: middle;
+	text-transform: uppercase;
+/*/*/
+	padding: 1px 5px;
+	border-color: #cecece #928A81 #928A81 #cecece;
+	border-style: solid;
+	border-width: 1px;
+/*buzz*/
+}
+.errormsg {
+	color: #ff0000;
+	font-weight: bold;
+}
+
+/* ~~~ [data table] ~~~ */
+table.data {
+	margin: 10px 0;
+	empty-cells: show;
+}
+table.data, table.data p, table.data a, table.data td, table.data th {
+	font-size: 12px;
+	color: #6E6FB7;
+}
+table.data thead tr th {
+	padding: 2px 5px;
+	font-weight: bold;
+	vertical-align: middle;
+	border-color: #9C99F5;
+	border-style: solid;
+	border-width: 2px 0;
+	background-color: white;
+}
+table.data tbody tr td {
+/*	background-color: #d2d2db;*/
+	border-color: #9C99F5;
+	border-style: solid;
+	border-width: 0 0 1px 0;
+	padding: 1px 3px;
+}
+tr.data td {
+	background-color: #EEF1F9;
+}
+#lined table {
+	margin: 0px;
+	padding: 0px;
+	border-collapse: collapse;
+}
+#lined td {
+	border: 1px solid #D1D3D4;
+	padding: 4px;
+}
+
+
+/* ~~~ [css box™ model] ~~~ */
+#editobox .rbroundbox {
+	background: url(../images/1x1w.gif) repeat;
+}
+#editobox .rbtop {
+	background: url(../images/e-bg.gif) repeat-x;
+}
+#editobox .rbtop div {
+	background: url(../images/e-tl.gif) no-repeat top left;
+}
+#editobox .rbtop div div {
+	background: url(../images/e-tr.gif) no-repeat top right;
+	text-align: center;
+	padding-top: 10px;
+}
+#editobox .rbbot {
+	background: url(../images/e-bbg.gif) repeat-x;
+}
+#editobox .rbbot div {
+	background: url(../images/e-bl.gif) no-repeat top left;
+}
+#editobox .rbbot div div {
+	background: url(../images/e-br.gif) no-repeat top right;
+}
+#editobox .rbcontentwrap {
+	background: url(../images/e-ml-bg.gif) repeat-y;
+}
+#editobox .rbcontent {
+	background: url(../images/e-mr-bg.gif) repeat-y right;
+}
+#editobox .rbtop div, #editobox .rbtop {
+	width: 100%;
+	height: 36px;
+	font-size: 1px;
+}
+#editobox .rbbot div, #editobox .rbbot {
+	width: 100%;
+	height: 8px;
+	font-size: 1px;
+}
+#editobox .rbcontent {
+	padding: 0 0.5em 0em 1em ;
+	margin: 0;
+}
+#editobox .rbcontent .scrolling {
+	height: 319px;
+	overflow: auto;
+	text-align: left;
+}
+#editobox .rbcontent .scrolling p {
+	font-size: 1em;
+	padding: 0;
+	margin: 10px 0 0 0;
+}
+#editobox .rbroundbox {
+	width: 220px;
+	margin: 1em auto;
+}

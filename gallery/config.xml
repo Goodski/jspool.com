@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,1)"
+	galleryWidth="630"
+	galleryHeight="70%"
+	galleryTitle="Gallery"
+
+>
+  <image imageURL="images/Beall Fireplace Complete.jpg"
+	thumbURL="thumbs/Beall Fireplace Complete.jpg"
+	linkURL="images/Beall Fireplace Complete.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Fireplace Complete.jpg">
+    <title><![CDATA[Beall Fireplace Complete]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Complete front view.jpg"
+	thumbURL="thumbs/Beall Complete front view.jpg"
+	linkURL="images/Beall Complete front view.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Complete front view.jpg">
+    <title><![CDATA[Beall Complete front view]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Beall Island Complete (4).jpg"
+	thumbURL="thumbs/Beall Island Complete (4).jpg"
+	linkURL="images/Beall Island Complete (4).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\beall\Beall Island Complete (4).jpg">
+    <title><![CDATA[Beall Island Complete (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Channel 47 (43).jpg"
+	thumbURL="thumbs/Channel 47 (43).jpg"
+	linkURL="images/Channel 47 (43).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Channel 47\Channel 47 (43).jpg">
+    <title><![CDATA[Channel 47 (43)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Channel 47 (40).jpg"
+	thumbURL="thumbs/Channel 47 (40).jpg"
+	linkURL="images/Channel 47 (40).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Channel 47\Channel 47 (40).jpg">
+    <title><![CDATA[Channel 47 (40)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hanford Island (17).jpg"
+	thumbURL="thumbs/Hanford Island (17).jpg"
+	linkURL="images/Hanford Island (17).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Handford Island\Hanford Island (17).jpg">
+    <title><![CDATA[Hanford Island (17)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hansen Island (2).jpg"
+	thumbURL="thumbs/Hansen Island (2).jpg"
+	linkURL="images/Hansen Island (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Hansen Island\Hansen Island (2).jpg">
+    <title><![CDATA[Hansen Island (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hansen Island (14).jpg"
+	thumbURL="thumbs/Hansen Island (14).jpg"
+	linkURL="images/Hansen Island (14).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Hansen Island\Hansen Island (14).jpg">
+    <title><![CDATA[Hansen Island (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hill (3).jpg"
+	thumbURL="thumbs/Hill (3).jpg"
+	linkURL="images/Hill (3).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Hill\Hill (3).jpg">
+    <title><![CDATA[Hill (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hill (14).jpg"
+	thumbURL="thumbs/Hill (14).jpg"
+	linkURL="images/Hill (14).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Hill\Hill (14).jpg">
+    <title><![CDATA[Hill (14)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hill (20).jpg"
+	thumbURL="thumbs/Hill (20).jpg"
+	linkURL="images/Hill (20).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Hill\Hill (20).jpg">
+    <title><![CDATA[Hill (20)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Johnston Pool Complete (6).jpg"
+	thumbURL="thumbs/Johnston Pool Complete (6).jpg"
+	linkURL="images/Johnston Pool Complete (6).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Johnston Pool\Johnston Pool Complete (6).jpg">
+    <title><![CDATA[Johnston Pool Complete (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Magdaleno 4.JPG"
+	thumbURL="thumbs/Magdaleno 4.JPG"
+	linkURL="images/Magdaleno 4.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Magdaleno\Magdaleno 4.JPG">
+    <title><![CDATA[Magdaleno 4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mosekian.jpg"
+	thumbURL="thumbs/Mosekian.jpg"
+	linkURL="images/Mosekian.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Mosekian\Mosekian.jpg">
+    <title><![CDATA[Mosekian]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mosekian pergala.jpg"
+	thumbURL="thumbs/Mosekian pergala.jpg"
+	linkURL="images/Mosekian pergala.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Mosekian\Mosekian pergala.jpg">
+    <title><![CDATA[Mosekian pergala]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mosekian out door shower.jpg"
+	thumbURL="thumbs/Mosekian out door shower.jpg"
+	linkURL="images/Mosekian out door shower.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Mosekian\Mosekian out door shower.jpg">
+    <title><![CDATA[Mosekian out door shower]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Noorigian (2).jpg"
+	thumbURL="thumbs/Noorigian (2).jpg"
+	linkURL="images/Noorigian (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Noorigian\Noorigian (2).jpg">
+    <title><![CDATA[Noorigian (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/North Fresno Complete 2.jpg"
+	thumbURL="thumbs/North Fresno Complete 2.jpg"
+	linkURL="images/North Fresno Complete 2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\North Fresno\North Fresno Complete 2.jpg">
+    <title><![CDATA[North Fresno Complete 2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ohanesian (16).jpg"
+	thumbURL="thumbs/Ohanesian (16).jpg"
+	linkURL="images/Ohanesian (16).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Ohanesian\Ohanesian (16).jpg">
+    <title><![CDATA[Ohanesian (16)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Paboojian (6).jpg"
+	thumbURL="thumbs/Paboojian (6).jpg"
+	linkURL="images/Paboojian (6).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Paboojian\Paboojian (6).jpg">
+    <title><![CDATA[Paboojian (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Paboojian (10).jpg"
+	thumbURL="thumbs/Paboojian (10).jpg"
+	linkURL="images/Paboojian (10).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Paboojian\Paboojian (10).jpg">
+    <title><![CDATA[Paboojian (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Paboojian (13).jpg"
+	thumbURL="thumbs/Paboojian (13).jpg"
+	linkURL="images/Paboojian (13).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Paboojian\Paboojian (13).jpg">
+    <title><![CDATA[Paboojian (13)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Parker (2).jpg"
+	thumbURL="thumbs/Parker (2).jpg"
+	linkURL="images/Parker (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Parker (2).jpg">
+    <title><![CDATA[Parker (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Parker (3).jpg"
+	thumbURL="thumbs/Parker (3).jpg"
+	linkURL="images/Parker (3).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Parker (3).jpg">
+    <title><![CDATA[Parker (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Parker.jpg"
+	thumbURL="thumbs/Parker.jpg"
+	linkURL="images/Parker.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Parker.jpg">
+    <title><![CDATA[Parker]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ramirez (29).jpg"
+	thumbURL="thumbs/Ramirez (29).jpg"
+	linkURL="images/Ramirez (29).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Ramirez (29).jpg">
+    <title><![CDATA[Ramirez (29)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Simonian (68).jpg"
+	thumbURL="thumbs/Simonian (68).jpg"
+	linkURL="images/Simonian (68).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Simonian (68).jpg">
+    <title><![CDATA[Simonian (68)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Visalia Island (10).jpg"
+	thumbURL="thumbs/Visalia Island (10).jpg"
+	linkURL="images/Visalia Island (10).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Visalia Island (10).jpg">
+    <title><![CDATA[Visalia Island (10)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Visalia Island (12).jpg"
+	thumbURL="thumbs/Visalia Island (12).jpg"
+	linkURL="images/Visalia Island (12).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\Visalia Island (12).jpg">
+    <title><![CDATA[Visalia Island (12)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/YLP Firepit 3.JPG"
+	thumbURL="thumbs/YLP Firepit 3.JPG"
+	linkURL="images/YLP Firepit 3.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\YLP Firepit 3.JPG">
+    <title><![CDATA[YLP Firepit 3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/YLP Firepit.JPG"
+	thumbURL="thumbs/YLP Firepit.JPG"
+	linkURL="images/YLP Firepit.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\jgood\Dropbox\JS Pool pictures\YLP Firepit.JPG">
+    <title><![CDATA[YLP Firepit]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

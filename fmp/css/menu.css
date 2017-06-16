@@ -1,0 +1,154 @@
+/* ~~~ ©2004 Rm; implementation by Vady ~~~
+	vady[at]i.com.ua
+	
+	~{vars}~
+	cross-browser = false;
+	static-values = true;
+	unique-colors = true;
+	multi-templates = none;
+*/
+
+
+/* ~~~ [coolmenus#4 - default styles, don't edit] ~~~ */
+.clCMEvent {
+	position: absolute;
+	width: 99%;
+	height: 99%;
+	clip: rect(0,100%,100%,0);
+	left: 0;
+	top: 0;
+	visibility: visible;
+}
+.clCMAbs {
+	position: absolute;
+	visibility: hidden;
+	left: 0;
+	top: 0;
+}
+
+/* ~~~ [background-bar] ~~~ */
+.clBar {
+	position: absolute;
+	width: 100px;
+	height: 10px;
+	background-color: #1E65AD;
+	layer-background-color: #1E65AD;
+	visibility: hidden;
+}
+
+/* ~~~ [common font properties] ~~~ */
+.clLevel0, .clLevel0over, .clLevel1, .clLevel1over, .clLevel2, .clLevel2over {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+/* ~~~ [level 0] ~~~ */
+.clLevel0, .clLevel0over {
+	position: absolute;
+	padding: 2px;
+	text-align: center;
+}
+.clLevel0 {
+	background-color: #1E65AD;
+	layer-background-color: #1E65AD;
+	color: #FFFFFF;
+	text-decoration: underline;
+	border-right: 1px solid #A5C1DE;
+}
+.clLevel0over {
+	text-decoration: none;
+	font-weight: bold;
+	background-color: #F6F8FB;
+	layer-background-color: #F6F8FB;
+	color: #1E65AD;
+	cursor: pointer;
+	cursor: hand;	
+}
+.clLevel0border {
+	position: absolute;
+	visibility: hidden;
+	background-color: #301D19;
+	layer-background-color: #301D19;
+}
+
+/* ~~~ [level 1] ~~~ */
+.clLevel1, .clLevel1over {
+	font-size: 10px;
+	position: absolute;
+	padding-left: 13px;
+	padding-right: 15px;
+	padding-top: 1px;
+}
+.clLevel1 {
+	color: #1E65AD;
+	background-color: #F6F8FB;
+	layer-background-color: #F6F8FB;
+	background-image: url(../images/menu/level-2-bg.gif);
+	background-repeat: repeat-y;
+	layer-background-image: url(../images/menu/level-2-bg.gif);
+	background-position: top 1px;
+	border-top: 2px solid #F6F8FB;
+	border-bottom: 2px solid #F6F8FB;
+}
+.clLevel1over {
+	background: none;
+	background-color: #B9CFE5;
+	border-color: #F6F8FB;
+	border-style: solid;
+	border-width: 2px 1px 2px 1px;
+	layer-background-color: #B9CFE5;
+	color: #1E65AD;
+	font-weight: bold;
+	cursor: pointer;
+	cursor: hand;
+}
+.clLevel1border {
+	position: absolute;
+	z-index: 500;
+	visibility: hidden;
+	background-color: #1E65AD;
+	layer-background-color: #1E65AD;
+	border-bottom: 1px solid #1E65AD
+}
+
+/* ~~~ [level 2] ~~~ */
+.clLevel2, .clLevel2over {
+	font-size: 10px;
+	position: absolute;
+	padding-left: 13px;
+	padding-right: 15px;
+	padding-top: 1px;
+}
+.clLevel2 {
+	color: #1B4978;
+	background-color: #E4EEFE;
+	layer-background-color: #E4EEFE;
+	background-image: url(../images/menu/level-3-bg.gif);
+	background-repeat: repeat-y;
+	layer-background-image: url(../images/menu/level-3-bg.gif);
+	background-position: top 1px;
+	border-top: 2px solid #E4EEFE;
+	border-bottom: 3px solid #E4EEFE;
+}
+.clLevel2over {
+	background: none;
+	background-color: #1E65AD;
+	border-color: #E4EEFE;
+	border-style: solid;
+	border-width: 2px 1px 2px 1px;
+	layer-background-color: #1E65AD;
+	color: #FFFFFF;
+	font-weight: bold;
+	cursor: pointer;
+	cursor: hand;
+}
+.clLevel2border {
+	position: absolute;
+	z-index: 500;
+	visibility: hidden;
+	background-color: #1E65AD;
+	layer-background-color: #1E65AD;
+	border-color: #1E65AD;
+	border-style: solid;
+	border-width: 1px 0 1px 0;
+}
